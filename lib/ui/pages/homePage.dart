@@ -59,6 +59,7 @@ class _HomePageState extends State<HomePage> {
                           builder: (context) => PokeDetail(
                              poke,
                       )));
+                    
                   },
                   child: Card(
                     child: Column(
